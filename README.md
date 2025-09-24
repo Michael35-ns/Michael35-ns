@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td>🔐</td>
-    <td><strong>Especialidad:</strong> Pentesting y Ciberseguridad</td>
+    <td><strong>Especialidad:</strong> Desarrollo Full Stack y Ciberseguridad</td>
   </tr>
   <tr>
     <td>📍</td>
