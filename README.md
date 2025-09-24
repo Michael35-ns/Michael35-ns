@@ -137,7 +137,7 @@
 ## 📫 ¡Conecta conmigo!
 
 <div align="center">
-  <a href="mailto:tu-email@ejemplo.com">
+  <a href="mailto:crisnuva1427@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/tu-perfil">
@@ -151,7 +151,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Michael35-nsE&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 </div>
 
 <div align="center">
